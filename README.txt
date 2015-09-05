@@ -1,2 +1,2 @@
-This is a teste repository!
+This is a teste repository! Tested in master. Add in master only!
 This file will make me learn git basics.
